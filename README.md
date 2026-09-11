@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Shell Script](https://img.shields.io/badge/Shell_Script-Bash-green.svg)](https://www.gnu.org/software/bash/)
 [![Platform](https://img.shields.io/badge/platform-Linux-blue.svg)](https://www.kernel.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/NexteraMatt/iptables-management-script/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Nextera-Matt/iptables-management-script/graphs/commit-activity)
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Safety Features](#-safety-features)
 
@@ -101,9 +101,8 @@ This script provides a safe wrapper around iptables with:
 ## 🔧 Installation
 
 **1️⃣ Clone the repository**
-**1️⃣ Clone the repository**
 ```bash
-git clone https://github.com/NexteraMatt/iptables-management-script.git
+git clone https://github.com/Nextera-Matt/iptables-management-script.git
 cd iptables-management-script
 ```
 
@@ -329,9 +328,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Need help or found a bug?**
 
-[![GitHub Issues](https://img.shields.io/github/issues/NexteraMatt/iptables-management-script)](https://github.com/NexteraMatt/iptables-management-script/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/Nextera-Matt/iptables-management-script)](https://github.com/Nextera-Matt/iptables-management-script/issues)
 
-[Open an Issue](https://github.com/NexteraMatt/iptables-management-script/issues) • [Visit Portfolio](https://matthodges.uk)
+[Open an Issue](https://github.com/Nextera-Matt/iptables-management-script/issues) • [Visit Portfolio](https://matthodges.uk)
 
 </div>
 
@@ -362,3 +361,4 @@ Even with safety features, incorrect rules can cause service disruption.
 ⭐ Star this repo if it saves you from a lockout!
 
 </div>
+
